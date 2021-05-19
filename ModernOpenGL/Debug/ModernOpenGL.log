@@ -1,6 +1,1 @@
-﻿  main.cpp
-C:\Users\saiva\source\repos\ModernOpenGL\ModernOpenGL\WindowGen.h(16,36): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
-C:\Users\saiva\source\repos\ModernOpenGL\ModernOpenGL\WindowGen.h(17,37): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
-C:\Users\saiva\source\repos\ModernOpenGL\ModernOpenGL\main.cpp(36,29): warning C4305: 'initializing': truncation from 'double' to 'float'
-C:\Users\saiva\source\repos\ModernOpenGL\ModernOpenGL\main.cpp(139,15): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
-  ModernOpenGL.vcxproj -> C:\Users\saiva\source\repos\ModernOpenGL\Debug\ModernOpenGL.exe
+﻿  ModernOpenGL.vcxproj -> C:\Users\saiva\source\repos\ModernOpenGL\Debug\ModernOpenGL.exe

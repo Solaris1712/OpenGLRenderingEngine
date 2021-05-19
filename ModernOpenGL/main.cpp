@@ -120,7 +120,7 @@ int main()
 	dirtTexture.LoadTexture();
 
 	directionalLight = Light(1.f,1.f,1.f,0.3f,
-							1.f,0.f,0.f,1.f);
+							1.f,-1.f,-1.f,0.5f);
 	mat = Material(1.f, 32.f);
 
 
